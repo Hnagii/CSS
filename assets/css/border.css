@@ -1,0 +1,16 @@
+div{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+}
+.border{
+    border: 1px dotted #0fe90f;
+}
+.bola{
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+.sombra{
+    box-shadow: 5px 5px 10px black;
+}
